@@ -1,7 +1,7 @@
 # Constant-Q-multi-level-coefficients (CMC)
 This is a code to extract constant-Q multi-level coefficients (CMC) feature for spoofing attack detection.
 
-Jichen Yang and Rohan Kumar Das, 
+Jichen Yang and Rohan Kumar Das and Nina Zhou 
 
 Human Language Technology (HLT) Laboratory,
 National University of Singapore (NUS).
