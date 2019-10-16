@@ -20,3 +20,7 @@ Please cite this paper if you use this code.
 
 * MATLAB 2017 or above
 * [CQT 2013 Toolbox](https://github.com/azraelkuan/asvspoof2017/tree/master/baseline/CQCC_v1.0/CQT_toolbox_2013)
+
+## License
+The code in this repository are licensed under the GNU General Public License Version 3. For commercial use of this code and models, separate commercial licensing is also available. Please see the contacts below.
+
