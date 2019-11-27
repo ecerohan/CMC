@@ -11,7 +11,7 @@ National University of Singapore (NUS).
 This is a code to extract constant-Q multi-level coefficients (CMC) feature for spoofing attack detection.
 Details are given in the following paper:
 
-- Jichen Yang, Rohan Kumar Das, Nina Zhou, ``Extraction of octave spectra information for spoofing attack detection," IEEE/ACM Transactions on Audio, Speech and Language Processing, 2019.
+- Jichen Yang, Rohan Kumar Das, Nina Zhou, ``Extraction of octave spectra information for spoofing attack detection," IEEE/ACM Transactions on Audio, Speech and Language Processing, vol. 27, Issue 12, pp. 2373-2384, December 2019.
 
 Please cite this paper if you use this code.
 
